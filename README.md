@@ -8,20 +8,27 @@ Dataset:
 
 -The dataset contains passenger information from the Titanic, including demographic data, ticket details, and survival status. Key columns include:
 
-Survived: Survival (0 = No, 1 = Yes)
+-Survived: Survival (0 = No, 1 = Yes)
 
-Pclass: Ticket class
+-Pclass: Ticket class
 
-Name
-Sex
-Age
-SibSp: Number of siblings/spouses aboard
+-Name
 
-Parch: Number of parents/children aboard
-Ticket
-Fare
-Cabin
-Embarked: Port of embarkation
+-Sex
+
+-Age
+
+-SibSp: Number of siblings/spouses aboard
+
+-Parch: Number of parents/children aboard
+
+-Ticket
+
+-Fare
+
+-Cabin
+
+-Embarked: Port of embarkation
 
 Files:
 
